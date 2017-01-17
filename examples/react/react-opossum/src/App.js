@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import circuitBreaker from 'opossum';
-import $ from 'jquery';
+import circuitBreaker from '../node_modules/opossum';
+import $ from '../node_modules/jquery';
 
 class App extends Component {
 
